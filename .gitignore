@@ -1,0 +1,4 @@
+/BE/node_modules
+/FE/node_modules
+/FE/app/node_modules
+/BE/.env
